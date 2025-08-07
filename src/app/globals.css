@@ -3,3 +3,12 @@
   padding: 0;
   margin: 0;
 }
+.font-silkscreen-regular {
+    font-family: var(--font-silkscreen);
+    font-weight: 400;
+}
+
+.font-silkscreen-bold {
+    font-family: var(--font-silkscreen);
+    font-weight: 700;
+}
